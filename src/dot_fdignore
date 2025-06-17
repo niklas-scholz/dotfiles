@@ -1,0 +1,15 @@
+Applications/**
+Library/**
+.bun/**
+.npm/**
+.nvm/**
+.m2/**
+.gradle/**
+Music/**
+.matplotlib/**
+.tldrc/**
+.local/**
+.pyenv/**
+.vim_runtime/**
+.vscode/**
+.oh-my-zsh/**
