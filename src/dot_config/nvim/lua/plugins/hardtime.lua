@@ -1,12 +1,12 @@
 return {
-  "m4xshen/hardtime.nvim",
-  lazy = false,
-  dependencies = { "MunifTanjim/nui.nvim" },
-  opts = {
-    disabled_keys = {
-      ["<Up>"] = false, -- Allow <Up> key
-      ["<Down>"] = false, -- Allow <Down> key
-    },
-    disable_mouse = false,
-  },
+  -- "m4xshen/hardtime.nvim",
+  -- lazy = false,
+  -- dependencies = { "MunifTanjim/nui.nvim" },
+  -- opts = {
+  --   disabled_keys = {
+  --     ["<Up>"] = false, -- Allow <Up> key
+  --     ["<Down>"] = false, -- Allow <Down> key
+  --   },
+  --   disable_mouse = false,
+  -- },
 }
