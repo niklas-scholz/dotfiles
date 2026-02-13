@@ -10,7 +10,7 @@ return {
       local lga_actions = require("telescope-live-grep-args.actions")
       opts.extensions = {
         live_grep_args = {
-          file_ignore_patterns = { "node_modules", ".venv" },
+          file_ignore_patterns = { "node_modules", ".venv", "yarn" },
           additional_args = function(_)
             return {
               "--hidden",
@@ -38,6 +38,7 @@ return {
       }
 
       opts.defaults = vim.tbl_extend("force", opts.defaults, {
+        file_ignore_patterns = { "node_modules", ".venv", "yarn" },
         mappings = {
           i = {
             ["<C-o>"] = function(prompt_bufnr)
