@@ -1,7 +1,14 @@
 title = " "
 theme = "Kanagawa Wave"
+
 macos-titlebar-proxy-icon = hidden
 macos-option-as-alt = true
+macos-titlebar-style = "hidden"
+macos-window-shadow = false
+
+window-padding-y = 15,0
+
 font-family = "MesloLGL Nerd Font Mono"
 font-size = 13.5
 confirm-close-surface = false
+mouse-hide-while-typing = true
