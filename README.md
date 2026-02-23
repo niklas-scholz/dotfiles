@@ -1,6 +1,6 @@
 # 🛠️ Niklas' Dotfiles
 
-This is my personal dotfiles repository, managed using [chezmoi](https://www.chezmoi.io/). It contains configuration for tools, editors, and CLI utilities — everything **except** my macOS and Zsh setup, which are managed separately using [nix-darwin](https://github.com/LnL7/nix-darwin) and [home-manager](https://github.com/nix-community/home-manager).
+This is my personal dotfiles repository, managed using [chezmoi](https://www.chezmoi.io/). It contains configuration for tools, editors, and CLI utilities — everything **except** my macOS and Zsh setup, which are managed separately using [nix-darwin](https://github.com/LnL7/nix-darwin) and [home-manager](https://github.com/nix-community/home-manager) [here](https://github.com/niklas-scholz/flakes/tree/main/darwin).
 
 ## 🚀 Getting Started
 
