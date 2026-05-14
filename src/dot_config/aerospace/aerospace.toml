@@ -176,7 +176,9 @@ cmd-alt-n = 'move-node-to-workspace N --focus-follows-window'
 
 # Jump to Applications
 alt-t = 'exec-and-forget open -a /Applications/Ghostty.app'
+alt-z = 'exec-and-forget open -a /Applications/Zen.app'
 alt-x = 'exec-and-forget open -a /Applications/Arc.app'
+alt-c = 'exec-and-forget open -a /Applications/Slack.app'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#workspace-back-and-forth
 alt-tab = 'workspace-back-and-forth'
